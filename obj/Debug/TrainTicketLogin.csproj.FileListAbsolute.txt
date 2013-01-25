@@ -1,0 +1,39 @@
+C:\Documents and Settings\tank.xiao\Desktop\TrainTicketLogin\TrainTicketLogin\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\tank.xiao\Desktop\TrainTicketLogin\TrainTicketLogin\obj\Debug\TrainTicketLogin.Form1.resources
+C:\Documents and Settings\tank.xiao\Desktop\TrainTicketLogin\TrainTicketLogin\obj\Debug\TrainTicketLogin.Properties.Resources.resources
+C:\Documents and Settings\tank.xiao\Desktop\TrainTicketLogin\TrainTicketLogin\obj\Debug\TrainTicketLogin.csproj.GenerateResource.Cache
+C:\Documents and Settings\tank.xiao\Desktop\TrainTicketLogin\TrainTicketLogin\bin\Debug\TrainTicketLogin.exe
+C:\Documents and Settings\tank.xiao\Desktop\TrainTicketLogin\TrainTicketLogin\bin\Debug\TrainTicketLogin.pdb
+C:\Documents and Settings\tank.xiao\Desktop\TrainTicketLogin\TrainTicketLogin\obj\Debug\TrainTicketLogin.exe
+C:\Documents and Settings\tank.xiao\Desktop\TrainTicketLogin\TrainTicketLogin\obj\Debug\TrainTicketLogin.pdb
+C:\Users\Administrator\Desktop\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\obj\Debug\TrainTicketLogin.exe
+C:\Users\Administrator\Desktop\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\obj\Debug\TrainTicketLogin.pdb
+C:\Users\Administrator\Desktop\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\bin\Debug\TrainTicketLogin.exe
+C:\Users\Administrator\Desktop\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\bin\Debug\TrainTicketLogin.pdb
+C:\Users\Administrator\Desktop\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\obj\Debug\TrainTicketLogin.Form1.resources
+C:\Users\Administrator\Desktop\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\obj\Debug\TrainTicketLogin.Properties.Resources.resources
+C:\Users\Administrator\Desktop\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\obj\Debug\TrainTicketLogin.csproj.GenerateResource.Cache
+D:\TDDownload\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\obj\Debug\TrainTicketLogin.exe
+D:\TDDownload\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\obj\Debug\TrainTicketLogin.pdb
+D:\TDDownload\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\bin\Debug\TrainTicketLogin.exe
+D:\TDDownload\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\bin\Debug\TrainTicketLogin.pdb
+D:\TDDownload\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\obj\Debug\ResolveAssemblyReference.cache
+D:\TDDownload\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\obj\Debug\TrainTicketLogin.Form1.resources
+D:\TDDownload\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\obj\Debug\TrainTicketLogin.Properties.Resources.resources
+D:\TDDownload\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\obj\Debug\TrainTicketLogin.csproj.GenerateResource.Cache
+D:\我的文档\Visual Studio 2008\Projects\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\obj\Debug\TrainTicketLogin.exe
+D:\我的文档\Visual Studio 2008\Projects\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\obj\Debug\TrainTicketLogin.pdb
+D:\我的文档\Visual Studio 2008\Projects\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\bin\Debug\TrainTicketLogin.exe
+D:\我的文档\Visual Studio 2008\Projects\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\bin\Debug\TrainTicketLogin.pdb
+D:\我的文档\Visual Studio 2008\Projects\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\obj\Debug\ResolveAssemblyReference.cache
+D:\我的文档\Visual Studio 2008\Projects\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\obj\Debug\TrainTicketLogin.Form1.resources
+D:\我的文档\Visual Studio 2008\Projects\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\obj\Debug\TrainTicketLogin.Properties.Resources.resources
+D:\我的文档\Visual Studio 2008\Projects\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\obj\Debug\TrainTicketLogin.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\12306订票助手源代码\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\12306订票助手源代码\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\obj\Debug\_12306Helper.Form1.resources
+C:\Users\Administrator\Desktop\12306订票助手源代码\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\bin\Debug\12306Helper.exe
+C:\Users\Administrator\Desktop\12306订票助手源代码\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\bin\Debug\12306Helper.pdb
+C:\Users\Administrator\Desktop\12306订票助手源代码\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\obj\Debug\_12306Helper.Properties.Resources.resources
+C:\Users\Administrator\Desktop\12306订票助手源代码\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\obj\Debug\12306Helper.exe
+C:\Users\Administrator\Desktop\12306订票助手源代码\TrainTicketLogin\TrainTicketLogin\TrainTicketLogin\obj\Debug\12306Helper.pdb
